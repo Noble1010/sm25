@@ -1,0 +1,132 @@
+{
+  "PlayerData": [
+    {
+      "ID": 1,
+      "Forename": "Juillaume",
+      "Surname": "Restes",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 2,
+      "Forename": "Lenny",
+      "Surname": "Yoro",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 3,
+      "Forename": "Pau",
+      "Surname": "Cubarsi",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 4,
+      "Forename": "Giorgio",
+      "Surname": "Scalavini",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 5,
+      "Forename": "Stefan",
+      "Surname": "Bajčetić",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 6,
+      "Forename": "Rico",
+      "Surname": "Luis",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 7,
+      "Forename": "Kobbie",
+      "Surname": "Mainoo",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 8,
+      "Forename": "",
+      "Surname": "Javi",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 9,
+      "Forename": "Arda",
+      "Surname": "Juler",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 10,
+      "Forename": "Sverre",
+      "Surname": "Nypan",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 11,
+      "Forename": "Jobe",
+      "Surname": "Bellingham",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 12,
+      "Forename": "Lamine",
+      "Surname": "Yamal",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 13,
+      "Forename": "Alejandro",
+      "Surname": "Garnacho",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 14,
+      "Forename": "Phelipe",
+      "Surname": "Endrick",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 15,
+      "Forename": "Mathys",
+      "Surname": "Tel",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 16,
+      "Forename": "Francesco",
+      "Surname": "Camarda",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 17,
+      "Forename": "Jorrel",
+      "Surname": "Hato",
+      "ImageURL": "<insert imageurl>"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 3560,
+      "Name": "Mérida AD",
+      "ShortName": "MED",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/1/10/Merida_AD_logo_2024.png"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 150,
+      "Name": "Football League One",
+      "ImageURL": ""
+    },
+    {
+      "ID": 170,
+      "Name": "Primera Federación - Grupo II",
+      "ImageURL": ""
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "London Road"
+    }
+  ]
+}
